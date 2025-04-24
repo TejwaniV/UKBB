@@ -10,8 +10,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ```{r}
-##New code trial
-Test 
+##Loop for downloading Dragen WGS
 
 ```
 
