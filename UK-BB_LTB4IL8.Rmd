@@ -11,6 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ```{r}
 ##Loop for downloading Dragen WGS
+system("dx download '/Bulk/DRAGEN WGS/DRAGEN population level WGS variants, pVCF format [500k release]/chr1/ukb24310_c1_b97_v1.vcf.gz.tbi'")
 
 ```
 
